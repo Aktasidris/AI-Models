@@ -1,1 +1,2 @@
-All İnformation about this project ıncludin in Project Proposal Presentation.pptx file you can read it and get all informatin.
+# Predict  AGE & Gender and Emotions From Voice Data With Trainded Models
+* For detailed information about this project check the document file or PPT file *
